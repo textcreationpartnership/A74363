@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the better advancement of the Gospel and learning in Ireland.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74363</idno>
+            <idno type="STC">Thomason E1060_85</idno>
+            <idno type="STC">ESTC R10055</idno>
+            <idno type="EEBO-CITATION">99858791</idno>
+            <idno type="PROQUEST">99858791</idno>
+            <idno type="VID">169041</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74363)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169041)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1060[85])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the better advancement of the Gospel and learning in Ireland.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>p. 727-730 [i.e 4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Edward Husband and John Field, printers to the Parliament of England,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649 [i.e. 1650]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an order to print dated 8 March 1649.</note>
+                  <note>Caption title; ornament above caption; inital letter; text in black letter.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signatures: 6S² . Also issued as part of a through-paged set with a table for the entire set added.</note>
+                  <note>Last word of first line of text: "Encourage-"; first word of line below initial "of,"; the last word of last full line on page: "are".</note>
+                  <note>Reproductions of the originals in the British Library (Thomason Tracts) and the Huntington Library (Early English books).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious education --  Ireland --  Early works to 1800.</term>
+               <term>Evangelicalism --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="727" facs="tcp:169041:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 28 -->
+            <head>
+               <figure>
+                  <figDesc>blazon of the Commonwealth</figDesc>
+               </figure>
+            </head>
+            <head>AN ACT FOR The better advancement of the Goſpel and Learn<g ref="char:EOLhyphen"/>ing in IRELAND.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or the Encourage<g ref="char:EOLhyphen"/>ment and encreaſe of Learning, and the true Knowledge and Worſhip of God, and the advancement of the Proteſtant Reli<g ref="char:EOLhyphen"/>gion in <hi>Ireland,</hi> Be it Enacted by the Par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> and by the authority there<g ref="char:EOLhyphen"/>of, That all Honors, Caſtles, Lordſhips, Ma<g ref="char:EOLhyphen"/>nors, Lands, Tenements, Hereditaments, Revenues, Rents and Profits, which did here<g ref="char:EOLhyphen"/>tofore belong unto the late Archbiſhop of <hi>Dublin,</hi> and which did belong unto the late Dean, Dean and Chapter of St. <hi>Patrick</hi> in <hi>Ireland,</hi> or to ei<g ref="char:EOLhyphen"/>ther or any of them; and the Farm of <hi>Ardbrackan,</hi> with the Parſonage of <hi>Trym,</hi> belonging to the Biſhoprick of <hi>Meath</hi> in <hi>Ireland,</hi> ſhall be, and are
+<pb n="728" facs="tcp:169041:2"/>
+               <!-- PDF PAGE 29 -->
+hereby ſetled, eſtabliſhed and veſted in and upon <hi>Henry Ireton,</hi> Preſident of the Province of <hi>Munſter</hi> in <hi>Ireland, William Baſile</hi> 
+               <abbr>Eſq</abbr> Attorney General in <hi>Ireland</hi> for the State, Col: <hi>Robert Venables,</hi> Sir <hi>Robert King</hi> Knight, Col: <hi>Henry Cromwel, John Cook</hi> 
+               <abbr>Eſq</abbr> Doctor <hi>Henry Jones,</hi> Doctor <hi>Jonathan Goddard,</hi> Col: <hi>Hierome Sanky,</hi> Doctor <hi>John Harding, James Whitelock</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Owen</hi> Clerk, <hi>Robert Stapleton,</hi> Gent. <hi>Jenkin Lloyd,</hi> and <hi>Ralph Cudworth</hi> Clerk; To hold to them the ſaid <hi>Henry Ireton, William Baſile, Robert Venables,</hi> Sir <hi>Robert King, Henry Cromwel, John Cook, Henry Jones, Jonathan God<g ref="char:EOLhyphen"/>dard, Hierome Sanky, John Harding, James Whitelock, John Owen, Robert Stapleton, Jenkin Lloyd,</hi> and <hi>Ralph Cudworth,</hi> their Heirs and Aſſigns for ever, in truſt to and for ſuch uſes, intents and purpoſes, for the ſetling and maintenance of the Colledge now in or near the City of <hi>Dublin,</hi> com<g ref="char:EOLhyphen"/>monly called, <hi>Trinity Colledge,</hi> and of a Maſter, Fellows, Schollars and Officers there; and for the erecting, ſetling and maintenance of one other Colledge in the ſaid City of <hi>Dublin,</hi> and of a Maſter, Fellows, Schollars and Officers therein, and of publique Profeſſors in the Uni<g ref="char:EOLhyphen"/>verſity there; and alſo for the erecting, eſta<g ref="char:EOLhyphen"/>bliſhing and maintenance of a Free-ſchool, and of a Maſter, Vſhers, Schollars and Officers there, in ſuch maner, as by the ſaid Truſtees or any five or more of them, by and with the conſent and approbation of the Lord Lieute<g ref="char:EOLhyphen"/>nant of <hi>Ireland,</hi> ſignified under his Hand and Seal, ſhall be from time to time directed and appointed: And the ſaid Lord Lieutenant of <hi>Ireland</hi> is hereby Authorized and Appointed, by Warrant in writing under his Hand and Seal, from time to time to place in the ſaid Vniver<g ref="char:EOLhyphen"/>ſity, Colledges and Free-ſchools reſpectively, ſuch perſons to be Governors, Maſters, Pub<g ref="char:EOLhyphen"/>lique
+<pb n="729" facs="tcp:169041:2"/>
+               <!-- PDF PAGE 29 -->Profeſſors, Fellows, Schollars and Of<g ref="char:EOLhyphen"/>ficers; and to appoint unto them and every of them, ſuch yearly Allowances, Stipends or Salaries out of the premiſes during their reſpective lives, or for ſuch leſſer time as he in his judgement ſhall think fit; and like wiſe to remove and diſplace ſuch of them as he at any time ſhall hold expedient; and alſo by like War<g ref="char:EOLhyphen"/>rant in writing under his Hand and Seal, to cauſe ſuch Conveyances, Grants, and Aſſignations of the premiſes or any part of them, to be made by the ſaid Truſtees or any five or more of them, unto ſuch perſon or perſons as the ſaid Lord Lieutenant by ſuch Warrant as aforeſaid ſhall from time to time direct and appoint. And the ſaid Truſtees, or any five or more of them, are hereby authorized and appointed to make ſuch Conveyances, Grants and Aſſignation of the premiſes, or any part thereof, as they ſhall be from time to time directed by the ſaid Lord Lieu<g ref="char:EOLhyphen"/>tenant as aforeſaid: And all ſuch Grants, Con<g ref="char:EOLhyphen"/>veyances and Aſſignments as ſhall be made by the ſaid Truſtees as aforeſaid, ſhall be good and effectual in the Law. And the ſaid Truſtees, or any five or more of them, by and with the conſent and approbation of the ſaid Lord Lieutenant of <hi>Ireland,</hi> ſignified by writing under his Hand and Seal, are hereby authorized and appointed to conſider of, and to put in writing ſuch Rules, Directions, Statutes, Ordinances and Inſtru<g ref="char:EOLhyphen"/>ctions, as they in their judgements ſhall think fit, for the erecting, ſetling, maintaining and Go<g ref="char:EOLhyphen"/>vernment of the ſaid Vniverſity, Colledges and Free-School, and of the Maſters, Publique-Profeſſors, Fellows, Schollars and Officers there, and to be in them and every of them; and the ſame to ſend over in writing to the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> there to receive ſuch alterati<g ref="char:EOLhyphen"/>ons,
+<pb n="730" facs="tcp:169041:3"/>
+               <!-- PDF PAGE 30 -->
+addition or confirmation, as by the ſaid Par<g ref="char:EOLhyphen"/>liament of <hi>England</hi> ſhall be thought fit. And in the mean time, and until ſuch alterations, addi<g ref="char:EOLhyphen"/>tions or confirmation ſhall be made by the Parli<g ref="char:EOLhyphen"/>ament of <hi>England;</hi> the ſaid Lord Lieutenant of <hi>Ireland</hi> is hereby authorized and appointed, by Warrant in writing under his Hand and Seal, to put in execution all or any of the Rules, Dire<g ref="char:EOLhyphen"/>ctions, Statutes, Ordinances and Inſtructions, as ſhall be ſo agreed upon and put in writing as aforeſaid; and the ſame ſhall be good and effe<g ref="char:EOLhyphen"/>ctual to the intents and purpoſes aforeſaid, until other order for the alteration, addition or confir<g ref="char:EOLhyphen"/>mation of them or any of them, ſhall be given by the Parliament of <hi>England</hi> as aforeſaid. Provided always, That this Act ſhall not extend to take away the Right, Eſtate or Intereſt of any per<g ref="char:EOLhyphen"/>ſon or perſons whatſoever, other then of the ſaid late Archbiſhop, Biſhop of <hi>Meath,</hi> and of the ſaid Dean, Dean and Chapter; and of any that have been in Arms againſt the Parliament of <hi>England,</hi> or voluntarily aſſiſted or adhered to the Enemies thereof; and other then ſuch who claim by any Leaſe, Grant or Conveyance from the ſaid late Archbiſhop, Biſhop of <hi>Meath,</hi> or from the ſaid Dean, Dean and Chapter, and from any that have been againſt the Parliament, ſuch Grant, Leaſe or Conveyance having been made ſince the Firſt day of <hi>October,</hi> in the year of our Lord God, One thouſand ſix hundred forty and one.</p>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Die Veneris, 8<hi rend="sup">o</hi> Martii, 1649.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That this Act be forth<g ref="char:EOLhyphen"/>with Printed and Publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Edward Huſband</hi> and <hi>John Field,</hi> Printers to the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> 1649.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
